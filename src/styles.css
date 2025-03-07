@@ -1,0 +1,30 @@
+.display{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    background-color: lightblue;
+    height: 70vh;
+    width: 60vw;
+    border-radius: 5px;
+
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.finished{
+    display: flex;
+    flex-direction: column;
+    line-height:5px;
+    
+}
+
+p{
+    margin-top: 0;
+    text-align:center;
+}
